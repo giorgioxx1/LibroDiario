@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  subject: MyString
+  file_tribunals: one
+  settles: 
+
+two:
+  subject: MyString
+  file_tribunals: two
+  settles: 
